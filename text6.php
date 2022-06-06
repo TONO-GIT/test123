@@ -1,1 +1,4 @@
-line 1.
+<?php
+	echo "line 1.";
+
+?>
